@@ -290,6 +290,7 @@ nav.active{
 }
 
 .product-home i{
+    overflow: hidden;
     font-size: 5rem;
     color: #66821b;
     margin-bottom: 1rem;
