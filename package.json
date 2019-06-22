@@ -1,0 +1,16 @@
+{
+  "name": "hts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://devicnikola.github.io/hts",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
